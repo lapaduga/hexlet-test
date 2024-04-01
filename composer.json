@@ -1,0 +1,17 @@
+{
+    "name": "lapaduga/tests",
+    "autoload": {
+        "psr-4": {
+            "Lapaduga\\Tests\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lapaduga",
+            "email": "deniskotov29042015@gmail.com"
+        }
+    ],
+    "require": {
+        "webmozart/assert": "^1.11"
+    }
+}
